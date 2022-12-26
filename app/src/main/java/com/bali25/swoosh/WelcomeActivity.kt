@@ -6,7 +6,7 @@ import android.os.Bundle
 import com.bali25.swoosh.databinding.ActivityWelcomeBinding
 import androidx.databinding.DataBindingUtil
 
-class WelcomeActivity : AppCompatActivity() {
+class WelcomeActivity : BaseActivity() {
     private lateinit var binding: ActivityWelcomeBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
