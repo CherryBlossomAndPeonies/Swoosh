@@ -1,10 +1,10 @@
-package com.bali25.swoosh
+package com.bali25.swoosh.controller
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.bali25.swoosh.databinding.ActivityWelcomeBinding
 import androidx.databinding.DataBindingUtil
+import com.bali25.swoosh.R
 
 class WelcomeActivity : BaseActivity() {
     private lateinit var binding: ActivityWelcomeBinding

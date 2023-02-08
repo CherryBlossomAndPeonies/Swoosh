@@ -1,4 +1,4 @@
-package com.bali25.swoosh
+package com.bali25.swoosh.controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
